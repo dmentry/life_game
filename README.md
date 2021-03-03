@@ -14,7 +14,7 @@ For a space that is populated:
 
 * Each cell with three neighbors becomes populated.
 
-![Application screenshot](https://github.com/dmentry/quiz/blob/master/screenshot.jpg)
+![Application screenshot](https://github.com/dmentry/life_game/blob/master/Life.gif)
 
 ## Main requirements
 Ruby
