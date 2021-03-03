@@ -17,16 +17,17 @@ For a space that is populated:
 ![Application screenshot](https://github.com/dmentry/life_game/blob/master/Life.gif)
 
 ## Main requirements
-Ruby
+* Ruby
 
 ## Run
 
 ```
 life.rb
 ```
+## Change field size
+Game field is set to 20x20. It could be changed by changing `LENGTH` value.
 
 ## Add/change cells
-Game field is 20x20. It could be changed by changing `LENGTH` value.
 Set the desired figure by setting value `*` in array before the main game cycle
 
 ```
